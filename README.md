@@ -1,5 +1,5 @@
 ## Hi there, 👋
-#I am Rishita Kaushik currently in my pre year of Computer Engineering(with specialization in Data Science) at J.C. Bose University of Science and Technology, YMCA 😄
+😄 I am Rishita Kaushik currently in my pre final year of Computer Engineering(with specialization in Data Science) at J.C. Bose University of Science and Technology, YMCA 😄
 
 - 🔭 I am eager to design and develop web applications.
 - 🌱 I’m currently learning MERN Stack and Data Structures and Algorithms
